@@ -1,0 +1,1745 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8644294552183913013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 571e306a1e25475f94b5817468b2b1cf
+  m_EditorClassIdentifier: 
+  title:
+    content: Aerated water
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 571e306a1e25475f94b5817468b2b1cf
+  internalName: aerated-water
+  status: 0
+  isHidden: 1
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 1437068033179386090}
+  reactions: {fileID: 7453367662692269287, guid: 4b11fa66d3e0ecc48b77b735df0b7e79, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &-8278664538249916710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 4f7d359fa25a464d81d42c835f90cc7d
+  m_EditorClassIdentifier: 
+  title:
+    content: Find Judy'doll in her room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Find a doll in her room.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 4f7d359fa25a464d81d42c835f90cc7d
+  internalName: find-doll
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: 7523111303994899432}
+  parent: {fileID: -6021403053989746863}
+  reactions: {fileID: 6168714470896218247, guid: 076db47b86d7f5543abaaf2f967aaf7a, type: 3}
+  type: 1
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &-7798453367415115694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: dee197af2df74d09838df7cb6d6fffa0
+  m_EditorClassIdentifier: 
+  title:
+    content: Find Mary's cleaning supplies
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Find Mary's cleaning supplies from 3 naughty girl.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: dee197af2df74d09838df7cb6d6fffa0
+  internalName: find-3-house-cleaner
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: -6510251585584248530}
+  parent: {fileID: -6198008113170105172}
+  reactions: {fileID: 482710167093898412, guid: b43be8a689b55f3478baf3f2d01a9dc8, type: 3}
+  type: 1
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &-7397243636524427291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: d6a30692d9554b36854087adcfc6d5c9
+  m_EditorClassIdentifier: 
+  title:
+    content: Talk to girl with ponytail
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: d6a30692d9554b36854087adcfc6d5c9
+  internalName: finish
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 446361887702338238}
+  reactions: {fileID: 8114653234197070630, guid: fd0caa1561940934f8f795033f22a39a, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &-7356996047007963749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: fe45d41d9d6e4719880d25f0962333a6
+  m_EditorClassIdentifier: 
+  title:
+    content: Go to doctor room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: fe45d41d9d6e4719880d25f0962333a6
+  internalName: third-stage-go-to-doctor-room
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 4148669381583298383, guid: 40a67544033b1ff419879abd5b4d7246, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &-6510251585584248530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: a1f9bbc50667484e934cd72e356725ea
+  m_EditorClassIdentifier: 
+  title:
+    content: bruwbru
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: a1f9bbc50667484e934cd72e356725ea
+  internalName: 
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: 0}
+  parent: {fileID: -7798453367415115694}
+  reactions: {fileID: 5810928886195274559, guid: 67b5912a81c9b1b4c8f1c732fe4a4fd7, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &-6439790505799778238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: b721510aa48247f4af44ce46fc7cc275
+  m_EditorClassIdentifier: 
+  title:
+    content: Help Mae
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: b721510aa48247f4af44ce46fc7cc275
+  internalName: help-mae
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: 2432743919993317588}
+  - {fileID: 6483041508862680378}
+  parent: {fileID: 11400000}
+  reactions: {fileID: 8414543700042435766, guid: 388815fa572743d4e9182000da12ae57, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &-6298371482425821802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: ca6e3a6f53c4463080185a8d9cf19501
+  m_EditorClassIdentifier: 
+  title:
+    content: Check Clare in her room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: ca6e3a6f53c4463080185a8d9cf19501
+  internalName: first-stage-check-clare
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 2791991494009376284, guid: ca6834f462748044d80f98aa5fa3149a, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &-6198008113170105172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: f173299fd9014015baf2be920c087798
+  m_EditorClassIdentifier: 
+  title:
+    content: Help Mary
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Help maid Mary find her cleaning supplies.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: f173299fd9014015baf2be920c087798
+  internalName: help-maid-mary-bug
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: -7798453367415115694}
+  parent: {fileID: 11400000}
+  reactions: {fileID: 1957074408070862630, guid: ddffe0850ae79dc4988ad1aaf6916f48, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &-6021403053989746863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 59d05ef8e8f94a82a9749114ecb2af81
+  m_EditorClassIdentifier: 
+  title:
+    content: Help Judy
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Help Judy find her doll.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 59d05ef8e8f94a82a9749114ecb2af81
+  internalName: help-judy
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: -8278664538249916710}
+  - {fileID: -3083334218906676529}
+  parent: {fileID: 11400000}
+  reactions: {fileID: 522081608438833610, guid: 1c17bfee23b8b074ebf45e478f7927f9, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &-5031276624958548454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 47a6a741a7304c56ada04fd33c698908
+  m_EditorClassIdentifier: 
+  title:
+    content: Find glass cleaner
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 47a6a741a7304c56ada04fd33c698908
+  internalName: find-glass-cleaner
+  status: 0
+  isHidden: 1
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: -3155996278460051206}
+  reactions: {fileID: 7628237730904035826, guid: add63d34770637c488cc96249d7a7f0e, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &-5023758479072134101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 1669fad509754210aabc5f1f22fc326c
+  m_EditorClassIdentifier: 
+  title:
+    content: Help Mary
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Help Mary find her cleaning supplies.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 1669fad509754210aabc5f1f22fc326c
+  internalName: help-mary
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: -3155996278460051206}
+  - {fileID: 446361887702338238}
+  - {fileID: 1437068033179386090}
+  - {fileID: 7509883839030965872}
+  parent: {fileID: 11400000}
+  reactions: {fileID: 2702472675785524211, guid: 3d5810a86b567c34aae13a3ccb60f4b4, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &-3155996278460051206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 8d0d5894944641d189677682ba90edb6
+  m_EditorClassIdentifier: 
+  title:
+    content: Find cleaning supplies
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 8d0d5894944641d189677682ba90edb6
+  internalName: find-cleaning-supplie
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: -301882822850817549}
+  - {fileID: 3449249213076231362}
+  - {fileID: -5031276624958548454}
+  parent: {fileID: -5023758479072134101}
+  reactions: {fileID: 5326934566326407863, guid: 44ec1e0e52e05364582d7b88fe21adec, type: 3}
+  type: 1
+  progress: 0
+  progressMaxValue: 3
+--- !u!114 &-3083334218906676529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: c26b8fe0532d4755acb537623769a9ec
+  m_EditorClassIdentifier: 
+  title:
+    content: Talk to Judy
+    postProcess: 0
+    translationID: 0
+  description:
+    content: You found a doll, talk to Judy.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: c26b8fe0532d4755acb537623769a9ec
+  internalName: finish-quest
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: -6021403053989746863}
+  reactions: {fileID: 8186902210011775974, guid: b9a9135f03bafa14c99fff1a625dc054, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &-2328715916766695466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 12618381f8634e8384a1e53e4b6b11d2
+  m_EditorClassIdentifier: 
+  title:
+    content: Take medical file in your room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Take medical file
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 12618381f8634e8384a1e53e4b6b11d2
+  internalName: first-stage-go-to-your-room
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 3318630908634607133, guid: 6562cb57b9778044f85d8b2db09c6dd0, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &-1871992355715888944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 7f0aaa2699ca4566994c8f68c5779713
+  m_EditorClassIdentifier: 
+  title:
+    content: 'Go to exit '
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 7f0aaa2699ca4566994c8f68c5779713
+  internalName: third-stage-go-to-exit
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 4447428566860797228, guid: 53cc0ef8f86b05446883ec35e2c21e64, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &-301882822850817549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 4bff3a0cf047492bbd4c6e719ef80984
+  m_EditorClassIdentifier: 
+  title:
+    content: Find broom
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 4bff3a0cf047492bbd4c6e719ef80984
+  internalName: find-broom
+  status: 0
+  isHidden: 1
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: -3155996278460051206}
+  reactions: {fileID: 2120496055534818401, guid: 1265aa2f7afece14184bbc3fe30d05e0, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d072b01d4c1747fca7b96f6a53ad25c, type: 3}
+  m_Name: Quests
+  m_EditorClassIdentifier: 
+  title:
+    content: 
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 
+  internalName: 
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 1
+  children:
+  - {fileID: 114674995294656434}
+  - {fileID: -6021403053989746863}
+  - {fileID: -6439790505799778238}
+  - {fileID: -6198008113170105172}
+  - {fileID: -5023758479072134101}
+  - {fileID: 5401565554211619612}
+  - {fileID: -2328715916766695466}
+  - {fileID: -6298371482425821802}
+  - {fileID: 5895297585150725235}
+  - {fileID: 2408795569215383997}
+  - {fileID: 8821299397507190559}
+  - {fileID: 3076433196530311704}
+  - {fileID: 2551107174692472410}
+  - {fileID: 4928893662796345445}
+  - {fileID: 8587966201296796091}
+  - {fileID: 6575164724527281234}
+  - {fileID: 4994719202225096251}
+  - {fileID: 2714731112918592446}
+  - {fileID: 3343435666087825732}
+  - {fileID: 2691597363835255092}
+  - {fileID: -7356996047007963749}
+  - {fileID: 5042387109856186218}
+  - {fileID: 4499490086293309175}
+  - {fileID: -1871992355715888944}
+  parent: {fileID: 0}
+  reactions: {fileID: 0}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &114025235498648472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 402567946ed9459eb8a5b0c955776f66
+  m_EditorClassIdentifier: 
+  title:
+    content: Examine Dr. Black
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Dr. Black corpse is in the middle of the room and has been left untouched.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 402567946ed9459eb8a5b0c955776f66
+  internalName: examine-dr-black
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 114082004578071952}
+  reactions: {fileID: 3406252968848440478, guid: 3eb481cea52a64af7a9e1066c5eef511, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &114082004578071952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 76c4dc98cc8445d6957b4f28c71ff67b
+  m_EditorClassIdentifier: 
+  title:
+    content: Investigate the scene
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Investigate the scene and interrogate the three suspects
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 76c4dc98cc8445d6957b4f28c71ff67b
+  internalName: start-investigation
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: 114700164890502156}
+  - {fileID: 114549202377082124}
+  - {fileID: 114703024333072266}
+  - {fileID: 114025235498648472}
+  parent: {fileID: 114489884777958684}
+  reactions: {fileID: 6482420464325397895, guid: 9fb68fa7fdac54c5489e62b1edc06dc2, type: 3}
+  type: 1
+  progress: 0
+  progressMaxValue: 4
+--- !u!114 &114100349208120626
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: f320f874cf4245dda5b353b740c52e2b
+  m_EditorClassIdentifier: 
+  title:
+    content: Conlude the Investigation
+    postProcess: 0
+    translationID: 0
+  description:
+    content: It's time to draw a conclusion and know who the killer is.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: f320f874cf4245dda5b353b740c52e2b
+  internalName: conclude-investigation
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 114674995294656434}
+  reactions: {fileID: 877668702060872806, guid: 035dff535806c4c01bbbc128932a9f05, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &114489884777958684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 674572f58a1444f4bfc4db8d4774c092
+  m_EditorClassIdentifier: 
+  title:
+    content: Talk to Detective Blue
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Talk to Detective Blue to gather more details
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 674572f58a1444f4bfc4db8d4774c092
+  internalName: talk-to-detective-briefing
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: 114082004578071952}
+  parent: {fileID: 114674995294656434}
+  reactions: {fileID: 445897582301385881, guid: f92a9d92097bf4b2f899003dcdc0e335, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &114549202377082124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 0664776b14454670bb0917c3ae22a57e
+  m_EditorClassIdentifier: 
+  title:
+    content: Talk to Reverend Green
+    postProcess: 0
+    translationID: 0
+  description:
+    content: He is a man of religion, whom tend to hide secrets and spill half truths.
+      Could he be hiding something?
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 0664776b14454670bb0917c3ae22a57e
+  internalName: talk-to-reverend-green
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 114082004578071952}
+  reactions: {fileID: 67936404554734302, guid: bc5112a254af2431181ece32f573f14a, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &114674995294656434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 79b0acb3932b41f98d68ad94b479bf21
+  m_EditorClassIdentifier: 
+  title:
+    content: Murder at the table
+    postProcess: 0
+    translationID: 0
+  description:
+    content: You have been summoned to investigate a curious case where Dr. Black,
+      the host of the house has myseriously died.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 79b0acb3932b41f98d68ad94b479bf21
+  internalName: murder-at-the-table
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: 114489884777958684}
+  - {fileID: 114100349208120626}
+  parent: {fileID: 11400000}
+  reactions: {fileID: 156206807640134395, guid: 99c9510029f854978817aead1ac30cbe, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &114700164890502156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 2172e86bd51b4bfc81a487b69d6a02c2
+  m_EditorClassIdentifier: 
+  title:
+    content: Talk to Lady Pink
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Lady Pink is Dr. Black's wife and seems shocked by the premature death
+      of her husband. Or is she hiding something?
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 2172e86bd51b4bfc81a487b69d6a02c2
+  internalName: talk-to-lady-pink
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 114082004578071952}
+  reactions: {fileID: 5589808553205333687, guid: b44f2c0a0ba5144a3adaae62374f8250, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &114703024333072266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 5f92cf0b6e864f15b39154b6d7841fd1
+  m_EditorClassIdentifier: 
+  title:
+    content: Talk to Colonel Red
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Just a shadow of a once proud member of the militia. He is drunk and
+      probably won't remember anything tomorrow. Or is he a great actor?
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 5f92cf0b6e864f15b39154b6d7841fd1
+  internalName: talk-to-colonel-red
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 114082004578071952}
+  reactions: {fileID: 4360830710098503506, guid: 77b172475acdb45dd99845deef4ea5d8, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &114789793967114666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 5179d50549e34924a475e996ec717e22
+  m_EditorClassIdentifier: 
+  title:
+    content: 
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 5179d50549e34924a475e996ec717e22
+  internalName: talk-to-detective-conclusions
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 1
+  children: []
+  parent: {fileID: 114082004578071952}
+  reactions: {fileID: 5698442080162226005, guid: 87966d5ba32cc4108998fd2c443c90d9, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &446361887702338238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 42eb74695d894c8a80c6b589d4286f30
+  m_EditorClassIdentifier: 
+  title:
+    content: Find ponytail girl phone
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 42eb74695d894c8a80c6b589d4286f30
+  internalName: find-ponytail-girl-phone
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: 8295554759583862332}
+  - {fileID: -7397243636524427291}
+  parent: {fileID: -5023758479072134101}
+  reactions: {fileID: 706482049149490869, guid: 8370dd97f2f91ff4ab9349532153e665, type: 3}
+  type: 1
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &1437068033179386090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 87ee72809da040fb8bdfb9d0afdbe52c
+  m_EditorClassIdentifier: 
+  title:
+    content: Buy aerated water for girl wear green
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 87ee72809da040fb8bdfb9d0afdbe52c
+  internalName: buy-aerated-water
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: -8644294552183913013}
+  - {fileID: 5855400189047199683}
+  parent: {fileID: -5023758479072134101}
+  reactions: {fileID: 479225488957141257, guid: 2a0e5e945b162bb4ab3832bef5d03185, type: 3}
+  type: 1
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &2408795569215383997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 318dc0db5a8e4bd59174242e080312cb
+  m_EditorClassIdentifier: 
+  title:
+    content: Find Dr.Joy in first aid room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 318dc0db5a8e4bd59174242e080312cb
+  internalName: first-stage-find-dr-joy
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 5955878196082967479, guid: 91ce4b424c1c9aa45b782a5a7858e41e, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &2432743919993317588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 8e0b0b04e27c44459bc156ecd4ad2494
+  m_EditorClassIdentifier: 
+  title:
+    content: Find water bottle in her room.
+    postProcess: 0
+    translationID: 0
+  description:
+    content: Find a bottle of water in Mae'room.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 8e0b0b04e27c44459bc156ecd4ad2494
+  internalName: find-water-bottle
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children:
+  - {fileID: 7236169355207666914}
+  parent: {fileID: -6439790505799778238}
+  reactions: {fileID: 5502411022310627006, guid: 47e6ac26ffe40aa4094124b7c046736b, type: 3}
+  type: 1
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &2551107174692472410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 5ac76c5ce25f48f8b0478e5f485a106e
+  m_EditorClassIdentifier: 
+  title:
+    content: Back to first aid room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 5ac76c5ce25f48f8b0478e5f485a106e
+  internalName: first-stage-go-back-to-first-aid-room
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 2848133976398392853, guid: 64011cc9ea0d252448e8eb76b82e3c80, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &2691597363835255092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: ba0eb4f36a174af78df9c9b540561be1
+  m_EditorClassIdentifier: 
+  title:
+    content: Go to first aid room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: ba0eb4f36a174af78df9c9b540561be1
+  internalName: third-stage-go-to-first-aid-room
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 5633989622847246634, guid: 3a31762f4e92c1c4da696eaf9d6c4bd2, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &2714731112918592446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: b7fbb415132e450dbf7e19555cee3360
+  m_EditorClassIdentifier: 
+  title:
+    content: Take hat and backpack
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: b7fbb415132e450dbf7e19555cee3360
+  internalName: third-stage-find-hat-and-backpack
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 1706164443639957621, guid: 58ac025f23b7e314685a563dae62524e, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &3076433196530311704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 02615f36c0414dcc886a0538b616ec48
+  m_EditorClassIdentifier: 
+  title:
+    content: 'Take doctor''s bag '
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 02615f36c0414dcc886a0538b616ec48
+  internalName: first-stage-take-doctor-bag
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 5148561124766368195, guid: 26f5b2e420ab1ff48ac9d457f161973a, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &3343435666087825732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 8630456977a64e45bd43bbceabb7d431
+  m_EditorClassIdentifier: 
+  title:
+    content: Find hidden pill
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 8630456977a64e45bd43bbceabb7d431
+  internalName: third-stage-find-hidden-medicine
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 2067656665614729930, guid: e6e75d07b294dbf418f1c6010dc63e48, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &3449249213076231362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: c547be6999ae49b08ea0028cd975b0c5
+  m_EditorClassIdentifier: 
+  title:
+    content: Find feather duster
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: c547be6999ae49b08ea0028cd975b0c5
+  internalName: find-feather-duster
+  status: 0
+  isHidden: 1
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: -3155996278460051206}
+  reactions: {fileID: 3639803624238943103, guid: 1ec9cca9543ea304eb4364a8563679b1, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &4499490086293309175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 026d654d0ad5485ea1aef622dd754836
+  m_EditorClassIdentifier: 
+  title:
+    content: Find Jane
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 026d654d0ad5485ea1aef622dd754836
+  internalName: third-stage-find-jane
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 6976328697209433512, guid: a3a17fcefc30ad24dad20db8c103d06e, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &4928893662796345445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: dbeea5b2da894ac59e6e577542da8a16
+  m_EditorClassIdentifier: 
+  title:
+    content: Find Mary at 1F
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: dbeea5b2da894ac59e6e577542da8a16
+  internalName: second-stage-find-mary
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 5966652156900497654, guid: 1c8a3c0bcb95ee64b9d50357a446e6f3, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &4994719202225096251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 7e6d575d36cd4e9ba9586c1ea3de9728
+  m_EditorClassIdentifier: 
+  title:
+    content: Go to your room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 7e6d575d36cd4e9ba9586c1ea3de9728
+  internalName: second-stage-back-to-your-room
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 5610695106595205039, guid: 89e2982d790059f46abeab3cb21c4bd6, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &5042387109856186218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: eb3ecc638ece4e9485b4fc40084a1660
+  m_EditorClassIdentifier: 
+  title:
+    content: Search vending machine
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: eb3ecc638ece4e9485b4fc40084a1660
+  internalName: third-stage-pick-up-something-behide-vending-mach
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 774253365027580743, guid: e394bf91f19542348a3c0c9a44b3b157, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &5401565554211619612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: f7aaae2299be46d7aae7e02308d8bfe1
+  m_EditorClassIdentifier: 
+  title:
+    content: Go to Clare room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: f7aaae2299be46d7aae7e02308d8bfe1
+  internalName: first-stage-go-to-clare-room
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 5874317030275739560, guid: a6a0cff712e773048a12b1bdff7ce914, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &5855400189047199683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 574f6842480b4eae9d4048509447f032
+  m_EditorClassIdentifier: 
+  title:
+    content: Give aerated water to girl wear green
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 574f6842480b4eae9d4048509447f032
+  internalName: finish-aerated-water
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 1437068033179386090}
+  reactions: {fileID: 1413218292179830420, guid: 955c8828643ca234f940c666ef92744c, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &5895297585150725235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: c08df494f1974831b869ca085bda29e1
+  m_EditorClassIdentifier: 
+  title:
+    content: Go to first aid room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: c08df494f1974831b869ca085bda29e1
+  internalName: first-stage-go-to-first-aid-room
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 6004040350058313453, guid: e8def39ab496410468f54dd12c526bd8, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &6483041508862680378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: b371123f061b44b4846721fbfe3e38bd
+  m_EditorClassIdentifier: 
+  title:
+    content: Talk to Mae
+    postProcess: 0
+    translationID: 0
+  description:
+    content: You found her bottle of water, talk to Mae.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: b371123f061b44b4846721fbfe3e38bd
+  internalName: finish-quest
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: -6439790505799778238}
+  reactions: {fileID: 7282505991963293692, guid: 9f18643e8a986594fa5da0cb279cb279, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &6575164724527281234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 10f3fd031ce5477bbf3cad7bf3d34ed4
+  m_EditorClassIdentifier: 
+  title:
+    content: Find Jane at 1F
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 10f3fd031ce5477bbf3cad7bf3d34ed4
+  internalName: second-stage-see-jane
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 7408605801445547808, guid: 4986a401f89b3f7489b4a6c50e136cbf, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &7236169355207666914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 123aad39754e48f085e6d2923385efed
+  m_EditorClassIdentifier: 
+  title:
+    content: Water bottle
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 123aad39754e48f085e6d2923385efed
+  internalName: water-bottle
+  status: 0
+  isHidden: 1
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 2432743919993317588}
+  reactions: {fileID: 8647732451110294472, guid: 01a45fe186acca34a9a4b87f151ca5a1, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &7509883839030965872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 32a0eab63caa4eb89ffbeba59e443f7f
+  m_EditorClassIdentifier: 
+  title:
+    content: Talk to Mary
+    postProcess: 0
+    translationID: 0
+  description:
+    content: You found all cleaning supplies, talk to Mary.
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 32a0eab63caa4eb89ffbeba59e443f7f
+  internalName: quest-finish
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: -5023758479072134101}
+  reactions: {fileID: 5904265494276768561, guid: 564aac2d139ee884fa424d30fb0ec44f, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &7523111303994899432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 7aa7d3f1a99b485696e162ebb724ed66
+  m_EditorClassIdentifier: 
+  title:
+    content: 'Find Judy''doll 1 '
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 7aa7d3f1a99b485696e162ebb724ed66
+  internalName: finddoll
+  status: 0
+  isHidden: 1
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: -8278664538249916710}
+  reactions: {fileID: 1355398278410068045, guid: ec86b04a43e89d6458a7e9462703cc85, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &8295554759583862332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de36ba328c44a4946805b50fa61d24b1, type: 3}
+  m_Name: 6ff3b26daec042aeaf519fffe5a3bea1
+  m_EditorClassIdentifier: 
+  title:
+    content: Phone
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 6ff3b26daec042aeaf519fffe5a3bea1
+  internalName: ponytail-girl-phone
+  status: 0
+  isHidden: 1
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 446361887702338238}
+  reactions: {fileID: 4831340599259080258, guid: ec4df3b4a64d274429a65ad37e4e1aad, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+--- !u!114 &8587966201296796091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: ca3ebfd8d68f430eb1a35e9d4f1a2d3b
+  m_EditorClassIdentifier: 
+  title:
+    content: Go to first aid room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: ca3ebfd8d68f430eb1a35e9d4f1a2d3b
+  internalName: second-stage-go-back-to-first-aid-room
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 9068675755729109527, guid: f20e762d0752639478f8e80c0c5b3d70, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0
+--- !u!114 &8821299397507190559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205ff9d50c90949b98056d0039dff7c6, type: 3}
+  m_Name: 38f41a3745074686b47956fb218a222e
+  m_EditorClassIdentifier: 
+  title:
+    content: Go to doctor room
+    postProcess: 0
+    translationID: 0
+  description:
+    content: 
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 0}
+  uniqueID: 38f41a3745074686b47956fb218a222e
+  internalName: first-stage-go-to-doctor-room
+  status: 0
+  isHidden: 0
+  canBeAbandoned: 0
+  children: []
+  parent: {fileID: 11400000}
+  reactions: {fileID: 5969345887815656698, guid: 40e9f43c78873c94dab21adc710e9df6, type: 3}
+  type: 0
+  progress: 0
+  progressMaxValue: 1
+  isTracking: 0

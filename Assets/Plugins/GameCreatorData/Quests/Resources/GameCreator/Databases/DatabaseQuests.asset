@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f735d8d0aa984e6cbccc634eb414ee1, type: 3}
+  m_Name: DatabaseQuests
+  m_EditorClassIdentifier: 
+  quests: {fileID: 11400000, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  list:
+  - {fileID: 114674995294656434, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114489884777958684, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114082004578071952, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114700164890502156, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114549202377082124, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114703024333072266, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114025235498648472, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114789793967114666, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 114100349208120626, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -6021403053989746863, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -8278664538249916710, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 7523111303994899432, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -3083334218906676529, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -6439790505799778238, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 2432743919993317588, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 6483041508862680378, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 7236169355207666914, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -6198008113170105172, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -7798453367415115694, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -6510251585584248530, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -5023758479072134101, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -3155996278460051206, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -301882822850817549, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 7509883839030965872, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 3449249213076231362, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -5031276624958548454, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 446361887702338238, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 8295554759583862332, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -7397243636524427291, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 1437068033179386090, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -8644294552183913013, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 5855400189047199683, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 5401565554211619612, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -2328715916766695466, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -6298371482425821802, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 5895297585150725235, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 4928893662796345445, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 8587966201296796091, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 6575164724527281234, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 4994719202225096251, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 2714731112918592446, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 3343435666087825732, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 2691597363835255092, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -7356996047007963749, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 5042387109856186218, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 4499490086293309175, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: -1871992355715888944, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 2408795569215383997, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 8821299397507190559, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 3076433196530311704, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  - {fileID: 2551107174692472410, guid: e191f3c1acbc748bb8a12d55c14118f1, type: 2}
+  settings:
+    journalSkin: {fileID: 0}
+    questsHUDSkin: {fileID: 0}
+  questsTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: a06cffff
+    m_LastClickedID: -37728
+    m_ExpandedIDs: 1a92feff2295fffffe95ffff5e99ffff0ea7ffff26a9ffff48a9ffff4af5ffff88f5ffff42f6ffff80f6ffffcef6ffff84f7ffffc2f7ffff20f8ffff6af9ffffacf9ffffe2f9ffff42faffff00000000b40f0000bc0f00004c2c00004e2c0000562c00004099000046990000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 

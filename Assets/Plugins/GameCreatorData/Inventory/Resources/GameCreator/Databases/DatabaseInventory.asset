@@ -1,0 +1,1399 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8472392377106278218
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1439310987
+  m_EditorClassIdentifier: 
+  uuid: 1439310987
+  itemName:
+    content: Feather dusty
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Mary's feather dusty
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: e7ce50258aa31964f835d6d076b65c6c, type: 3}
+  prefab: {fileID: 6528992752318622897, guid: 747cbf77212b7c2479658ceb2a011510, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 7451265305977236560, guid: ae8f703aa8b35254985d1e858b49c2aa, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 3524129880952760448, guid: d37e993174b2ead4fb3f5e7bbe1b374a, type: 3}
+  actionsOnEquip: {fileID: 5297497949642936999, guid: 7e12cd0b25d95834e8d2b12eae31270e, type: 3}
+  actionsOnUnequip: {fileID: 6223081349190541255, guid: 9359d7652515fa041a550079922a42c5, type: 3}
+--- !u!114 &-6044481865179787264
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.818374684
+  m_EditorClassIdentifier: 
+  uuid: 818374684
+  itemName:
+    content: Judy's doll
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Judy's doll
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: bb1f2db830c1a8940924f1e32eaa89bc, type: 3}
+  prefab: {fileID: 919132149155446097, guid: aa0f535426673c942978343a4d90e5ce, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 5571898794330340814, guid: 66e72fbe31d5ad44790046642dc830c3, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 2035130999385549002, guid: ce569b0262ba48d42a93325aa355c91c, type: 3}
+  actionsOnEquip: {fileID: 5156707968232561834, guid: 0ae98c3991933f4458ce8243c693f537, type: 3}
+  actionsOnUnequip: {fileID: 7263195838696457853, guid: cb058eacdeee96e4893e7fa776efb669, type: 3}
+--- !u!114 &-5696092741296427660
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.577960501
+  m_EditorClassIdentifier: 
+  uuid: 577960501
+  itemName:
+    content: Clozapine
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Best medicine
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: acc12d58ab464b44698877dc396d586d, type: 3}
+  prefab: {fileID: 6602542316781340513, guid: 8812b33f8f517d347a9ef1ea5bbabebb, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 99
+  weight: 1
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 1050832442556223201, guid: f0f588202b0ce3548948ed3870f8b95c, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 5878555448527192577, guid: 4d9bbe5866c7c8c47923380799935dca, type: 3}
+  actionsOnEquip: {fileID: 6538286734413155998, guid: bbb39fdc884613f468c357724a094700, type: 3}
+  actionsOnUnequip: {fileID: 5668617621451926846, guid: 3e958dc76e28c1f4c8f55f7f51931d67, type: 3}
+--- !u!114 &-5665095866646279800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.11474937
+  m_EditorClassIdentifier: 
+  uuid: 11474937
+  itemName:
+    content: Report Letter
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Sick report of Luna
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: efd83efd89369bf458eb4c18da969619, type: 3}
+  prefab: {fileID: 919132149155446097, guid: 9bcb0219582949b4187a1fb9671183c9, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 611897136806704371, guid: ebbe6e75245fb3847b597f5c818b7e7a, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 7252216395712540687, guid: 1fff721a78cb17c4597e1d0bfaaa240a, type: 3}
+  actionsOnEquip: {fileID: 7803625809873587797, guid: 78c822ed481369b4c8fa3c24af77ab6a, type: 3}
+  actionsOnUnequip: {fileID: 1016905887959021281, guid: c2e5790a332ab134d8a3cf5e6862377d, type: 3}
+--- !u!114 &-3454508157311650182
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1177773887
+  m_EditorClassIdentifier: 
+  uuid: 1177773887
+  itemName:
+    content: Flashlight
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Use when dark
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: fa9cc0e2a69d782499973eeab6ec028c, type: 3}
+  prefab: {fileID: 1716032346041297187, guid: e29e5dc81bb813641b8c802079ee6116, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 7083049052465272970, guid: 031f1be9fc3d62c4b81a9028c639bcb7, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 4395018058920464640, guid: 1c6bbe46c9a21c946a12f74eee8c20f7, type: 3}
+  actionsOnEquip: {fileID: 184427992700747373, guid: f13aba39f4b7a344bb3bcb23bd34200a, type: 3}
+  actionsOnUnequip: {fileID: 378912812122339136, guid: 4bdbc14c1ec0fcb4a8127f2559c8d29a, type: 3}
+--- !u!114 &-3348927380013690790
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.74390229
+  m_EditorClassIdentifier: 
+  uuid: 74390229
+  itemName:
+    content: Risperidon
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Low medicine
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: eae3cad1b765c034482477a951301513, type: 3}
+  prefab: {fileID: 9105732901120317662, guid: cdd2d621593d19847adcd6552e213113, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 99
+  weight: 1
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 6231476769452742145, guid: 4c6d930092ce17c4b815e6bfa87483fe, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 7860159414972066889, guid: a3fad9b0056dde14c93ed64b360a61ee, type: 3}
+  actionsOnEquip: {fileID: 6087373545029030457, guid: 65dec7079971d1b49b46e0f0b69499f0, type: 3}
+  actionsOnUnequip: {fileID: 4379319770317522961, guid: 0be2a3e42bfdbef479cf57fc5c55d0bc, type: 3}
+--- !u!114 &-2650696660100814460
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.31652052
+  m_EditorClassIdentifier: 
+  uuid: 31652052
+  itemName:
+    content: Aerated water
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Aerated water know as Coke
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: ffed1b1a78f876b47bf47efb7e58890c, type: 3}
+  prefab: {fileID: 2403239502588428392, guid: 656350269a9389a4fa41cd9f5567b8b8, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 2988246204463974222, guid: 91b06697f6d9cb04f85949897064fca5, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 6281706484049968789, guid: df1298758d1564f459cbdcb0fe182264, type: 3}
+  actionsOnEquip: {fileID: 7360486996126969098, guid: d0b120b34d06f3248b0f530e7ff7fd59, type: 3}
+  actionsOnUnequip: {fileID: 8897814298393668668, guid: 4dcd942f12a10a94b9526ca541264b28, type: 3}
+--- !u!114 &-1841492023104768633
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.871649527
+  m_EditorClassIdentifier: 
+  uuid: 871649527
+  itemName:
+    content: Doctor Bag
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Bag with medical inside
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: c6fe3ab9b0e4ddc428b67c931ca0b289, type: 3}
+  prefab: {fileID: 5627589112546174879, guid: 58fe907c681f1d4459681314c844493d, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 1868280017139261075, guid: b0de163729ce8924196c98c274bda002, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 6267422190422281414, guid: 138ef7421dc01c149ac5f025cf8db329, type: 3}
+  actionsOnEquip: {fileID: 5388993688773326616, guid: 54f02e323a206284984291400e4a8f96, type: 3}
+  actionsOnUnequip: {fileID: 7530012372486965434, guid: 76bde571383a36541a18ae2883ef88ad, type: 3}
+--- !u!114 &-979394109266593042
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.852474642
+  m_EditorClassIdentifier: 
+  uuid: 852474642
+  itemName:
+    content: Luna's doll
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: broken doll of Luna from bad friend
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: a42bf91a5b7d56c4ca57aecedaec51b4, type: 3}
+  prefab: {fileID: 5528035349991133747, guid: 33c8576d6e50f154a907509cf7d367e6, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 5416437792163693444, guid: 5bf5af13a24d783418549f88a3a41f0c, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 6540807396269602506, guid: eb935545bd169284ab598a6ff5837eb1, type: 3}
+  actionsOnEquip: {fileID: 3317667066367519018, guid: 572632bd2e028ce49a88de412f5e251f, type: 3}
+  actionsOnUnequip: {fileID: 8347135306377350204, guid: 347cb986c82bf82469dc92938b57a0f5, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3e40ba9355f343dc9daa80cc6e5ef1f, type: 3}
+  m_Name: DatabaseInventory
+  m_EditorClassIdentifier: 
+  inventoryCatalogue:
+    items:
+    - {fileID: 4523189462529451814}
+    - {fileID: -8472392377106278218}
+    - {fileID: 4144553305322196203}
+    - {fileID: -1841492023104768633}
+    - {fileID: -6044481865179787264}
+    - {fileID: 7117974922323110538}
+    - {fileID: -3454508157311650182}
+    - {fileID: -5696092741296427660}
+    - {fileID: 9139349319925818581}
+    - {fileID: -3348927380013690790}
+    - {fileID: 5256105308669571295}
+    - {fileID: -2650696660100814460}
+    - {fileID: -5665095866646279800}
+    - {fileID: 3671745816413811143}
+    - {fileID: -979394109266593042}
+    - {fileID: 114202326578594358}
+    - {fileID: 114826305866355372}
+    - {fileID: 114273004538180096}
+    - {fileID: 114961875310084520}
+    - {fileID: 114876379292609582}
+    - {fileID: 114177772742640968}
+    - {fileID: 114973290084467346}
+    - {fileID: 114212023077505736}
+    - {fileID: 114670950127064220}
+    recipes:
+    - {fileID: 114798038658200360}
+    itemTypes:
+    - id: General/
+      name:
+        content: Potions
+        postProcess: 0
+        translationID: 0
+    - id: General/
+      name:
+        content: Equipment
+        postProcess: 0
+        translationID: 0
+    - id: General/Equipment
+      name:
+        content: RightHand
+        postProcess: 0
+        translationID: 0
+    - id: General/Equipment/
+      name:
+        content: Helmets
+        postProcess: 0
+        translationID: 0
+    - id: General/Equipment/
+      name:
+        content: LeftHand
+        postProcess: 0
+        translationID: 0
+    - id: Item
+      name:
+        content: Quest
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+    - id: 
+      name:
+        content: 
+        postProcess: 0
+        translationID: 0
+  inventorySettings:
+    merchantUIPrefab: {fileID: 0}
+    containerUIPrefab: {fileID: 0}
+    inventoryUIPrefab: {fileID: 1776935227048216, guid: 8d2fd14a2c95a4818a01edf51761b09d, type: 3}
+    onDragGrabItem: 1
+    saveInventory: 1
+    cursorDrag: {fileID: 2800000, guid: 21b611b5099004ff38798dfed2a007ad, type: 3}
+    cursorDragHotspot: {x: 8, y: 8}
+    dragItemsToCombine: 1
+    pauseTimeOnUI: 1
+    canDropItems: 1
+    dropItemMaxDistance: 2
+    limitInventoryWeight: 1
+    maxInventoryWeight:
+      optionIndex: 0
+      value: 100
+      global:
+        allowTypesMask: 4
+        name: 
+      local:
+        allowTypesMask: 4
+        name: 
+        targetType: 2
+        targetObject: {fileID: 0}
+      list:
+        targetType: 3
+        targetObject: {fileID: 0}
+        select: 1
+        index: 0
+--- !u!114 &114078852527392226
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1827975848
+  m_EditorClassIdentifier: 
+  uuid: 1827975848
+  itemName:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 0}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 5
+  maxStack: 50
+  weight: 5
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 0}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 0}
+  actionsOnEquip: {fileID: 0}
+  actionsOnUnequip: {fileID: 0}
+--- !u!114 &114132190275875326
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1703117380
+  m_EditorClassIdentifier: 
+  uuid: 1703117380
+  itemName:
+    content: Hat
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Protects your head from the rain
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 23de4d75b7c2645f18974205d5ee7158, type: 3}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 50
+  maxStack: 1
+  weight: 5
+  itemTypes: 10
+  onClick: 1
+  consumeItem: 0
+  actionsOnClick: {fileID: 114304329568707516, guid: 3664d0efba40844f0989b1e934ebee0b, type: 3}
+  equipable: 1
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114751885000909132, guid: 13e70ea735f93440ba2eddf6d8762130, type: 3}
+  actionsOnEquip: {fileID: 114508125594269486, guid: f57fc0caa035a496189d4c21fa68b57e, type: 3}
+  actionsOnUnequip: {fileID: 114493396764035258, guid: 45b6a6d28a6854953a28264a26421438, type: 3}
+--- !u!114 &114177772742640968
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1443071983
+  m_EditorClassIdentifier: 
+  uuid: 1443071983
+  itemName:
+    content: Flowers
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Pink Flowers
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: e2de5a0d5cc174e148402f1dcacb7b16, type: 3}
+  prefab: {fileID: 1695198407935802, guid: ecb3f2997175e4a368214188a806379b, type: 3}
+  canBeSold: 1
+  price: 100
+  maxStack: 99
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 1
+  actionsOnClick: {fileID: 114455550709671036, guid: e0f24da964b664ceca0096f3ef2ed016, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114392523671361192, guid: 7e5fd7bb9f20e49a18f4fd7a2274c525, type: 3}
+  actionsOnEquip: {fileID: 114345348046723840, guid: b3bb9053435fc475b9386db8cb4899c8, type: 3}
+  actionsOnUnequip: {fileID: 114407772788872336, guid: c4df6334069da4226a004b8b138755c4, type: 3}
+--- !u!114 &114202326578594358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1347656443
+  m_EditorClassIdentifier: 
+  uuid: 1347656443
+  itemName:
+    content: Sword
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: A sword made of steel
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: a6719796afd6442638107c46bb167533, type: 3}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 100
+  maxStack: 1
+  weight: 5
+  itemTypes: 6
+  onClick: 1
+  consumeItem: 0
+  actionsOnClick: {fileID: 114376854373756430, guid: 60d93fc04c4b14a01b24c35f51a924e7, type: 3}
+  equipable: 1
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114711394317633460, guid: 9a83779ce24cb4cb7aa6096b962f778d, type: 3}
+  actionsOnEquip: {fileID: 114579303995260872, guid: 1d06bd9a28a544d1696736b1f70bc36f, type: 3}
+  actionsOnUnequip: {fileID: 114862963190555666, guid: a83d97d34a1494808814958dc7b7be7e, type: 3}
+--- !u!114 &114212023077505736
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1703117380
+  m_EditorClassIdentifier: 
+  uuid: 1703117380
+  itemName:
+    content: Hat
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Protects your head from the rain
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 23de4d75b7c2645f18974205d5ee7158, type: 3}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 50
+  maxStack: 1
+  weight: 5
+  itemTypes: 10
+  onClick: 1
+  consumeItem: 0
+  actionsOnClick: {fileID: 114304329568707516, guid: 3664d0efba40844f0989b1e934ebee0b, type: 3}
+  equipable: 1
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114751885000909132, guid: 13e70ea735f93440ba2eddf6d8762130, type: 3}
+  actionsOnEquip: {fileID: 114508125594269486, guid: f57fc0caa035a496189d4c21fa68b57e, type: 3}
+  actionsOnUnequip: {fileID: 114493396764035258, guid: 45b6a6d28a6854953a28264a26421438, type: 3}
+--- !u!114 &114273004538180096
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1296939904
+  m_EditorClassIdentifier: 
+  uuid: 1296939904
+  itemName:
+    content: Potion
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Heals any wounds
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 5041bfbe300f5457496f9696f43df0b4, type: 3}
+  prefab: {fileID: 1695198407935802, guid: 924bd157896e94f72a329d5f92706ee9, type: 3}
+  canBeSold: 1
+  price: 10
+  maxStack: 99
+  weight: 1
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 114524400458103072, guid: f08bcf1f9777a4aacbe8c7212ba829f3, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114513000615584926, guid: 9aa3cca51e7224feba8c6ea145517e10, type: 3}
+  actionsOnEquip: {fileID: 114633352763934166, guid: e142656f6e0a54ec6887167223a95360, type: 3}
+  actionsOnUnequip: {fileID: 114667113230836406, guid: 06b792e55efaf43d1917c92f65ee02c0, type: 3}
+--- !u!114 &114434062760271028
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1827975848
+  m_EditorClassIdentifier: 
+  uuid: 1827975848
+  itemName:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 0}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 5
+  maxStack: 50
+  weight: 5
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 0}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 0}
+  actionsOnEquip: {fileID: 0}
+  actionsOnUnequip: {fileID: 0}
+--- !u!114 &114670950127064220
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1703117380
+  m_EditorClassIdentifier: 
+  uuid: 1929890352
+  itemName:
+    content: Armor
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Red armor that will prevent enemies from seeing you bleed
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.9150943, g: 0.3496351, b: 0.3496351, a: 1}
+  sprite: {fileID: 21300000, guid: 00dfef9721b7b47bd8d11c253353104d, type: 3}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 50
+  maxStack: 1
+  weight: 5
+  itemTypes: 10
+  onClick: 1
+  consumeItem: 0
+  actionsOnClick: {fileID: 114304329568707516, guid: f7c5ad8e59302427ebdb4f9b6a4fddd9, type: 3}
+  equipable: 1
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114751885000909132, guid: 07fda723bd5b14b8ba1db77bee29db0f, type: 3}
+  actionsOnEquip: {fileID: 114508125594269486, guid: 0e958b5f7b8eb4e95a4a6fd71366cda1, type: 3}
+  actionsOnUnequip: {fileID: 114493396764035258, guid: 1788ecd5dd1af43869c97d7f422e3797, type: 3}
+--- !u!114 &114755425383334400
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1827975848
+  m_EditorClassIdentifier: 
+  uuid: 1827975848
+  itemName:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 0}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 5
+  maxStack: 50
+  weight: 5
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 0}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 0}
+  actionsOnEquip: {fileID: 0}
+  actionsOnUnequip: {fileID: 0}
+--- !u!114 &114774150684523084
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1827975848
+  m_EditorClassIdentifier: 
+  uuid: 1827975848
+  itemName:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 0}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 5
+  maxStack: 50
+  weight: 5
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 0}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 0}
+  actionsOnEquip: {fileID: 0}
+  actionsOnUnequip: {fileID: 0}
+--- !u!114 &114782744869077066
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1827975848
+  m_EditorClassIdentifier: 
+  uuid: 1827975848
+  itemName:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 0}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 5
+  maxStack: 50
+  weight: 5
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 0}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 0}
+  actionsOnEquip: {fileID: 0}
+  actionsOnUnequip: {fileID: 0}
+--- !u!114 &114798038658200360
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 351cef4e6d83140e4aab850ea2a2ea6d, type: 3}
+  m_Name: recipe.2486024
+  m_EditorClassIdentifier: 
+  itemToCombineA:
+    item: {fileID: 114273004538180096}
+  amountA: 1
+  itemToCombineB:
+    item: {fileID: 114177772742640968}
+  amountB: 1
+  removeItemsOnCraft: 1
+  actionsList: {fileID: 114940443500244628, guid: b4341ef21780b4c8a9dd9e8ec54d9686, type: 3}
+--- !u!114 &114826305866355372
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1347656443
+  m_EditorClassIdentifier: 
+  uuid: 1347656444
+  itemName:
+    content: Shield
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: A shield made of wood
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 02444a0f41556479c94540df649ff52c, type: 3}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 100
+  maxStack: 1
+  weight: 5
+  itemTypes: 18
+  onClick: 1
+  consumeItem: 0
+  actionsOnClick: {fileID: 114376854373756430, guid: ccb56e205e02b4ee5bf36591e214583d, type: 3}
+  equipable: 1
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114711394317633460, guid: f3b19620028e34a688211eaa0c852580, type: 3}
+  actionsOnEquip: {fileID: 114579303995260872, guid: 9afef09e41a0c4f038e65555d3a640e4, type: 3}
+  actionsOnUnequip: {fileID: 114862963190555666, guid: a78a32417cc9e41ceb15fc88f711d5cf, type: 3}
+--- !u!114 &114876379292609582
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1198719783
+  m_EditorClassIdentifier: 
+  uuid: 1198719783
+  itemName:
+    content: Key
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Key to a mysterious door
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: b5e622ceeadae4b9a9d83633cf7797d0, type: 3}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 85
+  maxStack: 99
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 1
+  actionsOnClick: {fileID: 114299862846821014, guid: 76a99c4c78d1547739fe9f73fdd73477, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114517809525433964, guid: a945b205017334077a8bed0964efb826, type: 3}
+  actionsOnEquip: {fileID: 114061426364942772, guid: 3ceb5685076874d4abbf989d7b8535d2, type: 3}
+  actionsOnUnequip: {fileID: 114459398785370502, guid: dd5ba52d1b5984b1cb9b7670f56e767c, type: 3}
+--- !u!114 &114920623156245654
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1827975848
+  m_EditorClassIdentifier: 
+  uuid: 1827975848
+  itemName:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Test
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 0}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 5
+  maxStack: 50
+  weight: 5
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 0}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 0}
+  actionsOnEquip: {fileID: 0}
+  actionsOnUnequip: {fileID: 0}
+--- !u!114 &114961875310084520
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1150090570
+  m_EditorClassIdentifier: 
+  uuid: 1150090570
+  itemName:
+    content: Hammer
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: A weapon to crush skulls
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 62b77465a0a1c424ab5821210457a860, type: 3}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 3000
+  maxStack: 1
+  weight: 5
+  itemTypes: 22
+  onClick: 1
+  consumeItem: 0
+  actionsOnClick: {fileID: 114481369062043594, guid: c8a8ed2e2817a4237a127b2c95721daf, type: 3}
+  equipable: 1
+  fillAllTypes: 1
+  conditionsEquip: {fileID: 114433509760340908, guid: e4bc4da8051f34411a6295c095d026d1, type: 3}
+  actionsOnEquip: {fileID: 114397559460990426, guid: 6759bffa91bf8437a89cb3b64da119f4, type: 3}
+  actionsOnUnequip: {fileID: 114873956412295212, guid: 99ea921a4177c40b681fbeea1b223173, type: 3}
+--- !u!114 &114973290084467346
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.980408996
+  m_EditorClassIdentifier: 
+  uuid: 980408996
+  itemName:
+    content: Reducer
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Changes your size
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 13dc1c2acc1b44d1c98cc682d0503e45, type: 3}
+  prefab: {fileID: 0}
+  canBeSold: 1
+  price: 1000
+  maxStack: 99
+  weight: 1
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 114086370648568720, guid: 8ba11ac483a064bd48aedfa83453a51a, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 114101755897189266, guid: 42809b3a75ab843d0a2a66a52e4f165b, type: 3}
+  actionsOnEquip: {fileID: 114977925338163432, guid: 2221a8836a00145edab0ca452ffaff8e, type: 3}
+  actionsOnUnequip: {fileID: 114222569409153632, guid: 0985155c770a847719e899bdb537068d, type: 3}
+--- !u!114 &3671745816413811143
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.349729004
+  m_EditorClassIdentifier: 
+  uuid: 349729004
+  itemName:
+    content: Dorm Permission
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Dorm permission for luna go to hospital
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 444e451269ed74042a059f821f98de71, type: 3}
+  prefab: {fileID: 919132149155446097, guid: f6fc6e097012f5c4bae509b4f34b910f, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 4165555068022513830, guid: 32b31c6823abce442a57d0aeb00416c1, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 9047456757246956287, guid: 3bc21a1da1f85594ea850bf5b23e06c1, type: 3}
+  actionsOnEquip: {fileID: 5210973377416094092, guid: e5919ba4ed40293458d78ae95ff8a0d6, type: 3}
+  actionsOnUnequip: {fileID: 6078362593581786971, guid: aed7c45f14f487340adfda1f7883ef09, type: 3}
+--- !u!114 &4144553305322196203
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.254734469
+  m_EditorClassIdentifier: 
+  uuid: 254734469
+  itemName:
+    content: Broom
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Mary's broom
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: b7c06b0caf7fda249a74b1002cc2544d, type: 3}
+  prefab: {fileID: 1049500166772365432, guid: fdf283c04f067074c8c1cecff98604ed, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 3122928114794614178, guid: ad8a2ffd419b00b42bec5c222938153b, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 1872249172349755260, guid: c5e7740da2451734293944a7de49962b, type: 3}
+  actionsOnEquip: {fileID: 2068361814828194226, guid: eb0955bcc4ef6dd40b81c25a5205525a, type: 3}
+  actionsOnUnequip: {fileID: 6252895757474630265, guid: 17f34d7db5c7b0c43842fa43f73b2fd3, type: 3}
+--- !u!114 &4523189462529451814
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.150062789
+  m_EditorClassIdentifier: 
+  uuid: 150062789
+  itemName:
+    content: Glass cleaner
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Mary's glass cleaner
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 2cc3b362a8c83e144adec3caf3258a83, type: 3}
+  prefab: {fileID: 1132035379152815804, guid: 488add54739e3e04e86b9697eecd391c, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 1672977573652831625, guid: 8ffab3e210c6cf14c8479f1dff80767e, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 4445579563573244771, guid: f7f23304c8e7369458cfb6b266dacaff, type: 3}
+  actionsOnEquip: {fileID: 8599846372777244754, guid: 3f5fb5616bcdc9047b1832f0f24f7cc1, type: 3}
+  actionsOnUnequip: {fileID: 3328510355864273741, guid: 4af7c3293c4ab6646be6a645c8c0592b, type: 3}
+--- !u!114 &5256105308669571295
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1693028965
+  m_EditorClassIdentifier: 
+  uuid: 1693028965
+  itemName:
+    content: Luna Medical
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: 'About Luna '
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 47b227a172f74cf44a89da8d8d6c2e40, type: 3}
+  prefab: {fileID: 5806042837869263139, guid: f7499ba2ded7d2a4eb8b9aad47e88212, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 0
+  actionsOnClick: {fileID: 2140368646555133380, guid: 164aab7791e23904199fb99080487098, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 8002189149894108337, guid: 1e5df8a9106a27442b0012ca4ce9cc09, type: 3}
+  actionsOnEquip: {fileID: 8380837470093585538, guid: 08dae24d50d79404ba6bda45b95c7721, type: 3}
+  actionsOnUnequip: {fileID: 8907551450545800148, guid: 920c81c1fb9d2bf448d35ab816c8793f, type: 3}
+--- !u!114 &7117974922323110538
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1664002613
+  m_EditorClassIdentifier: 
+  uuid: 1664002613
+  itemName:
+    content: Mae's bottle
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: bottle with water inside
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 95ec9632fa536234386cb6e0e76ca240, type: 3}
+  prefab: {fileID: 8115545554782553936, guid: f4466b691428afb4db48daed270cf004, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 1
+  weight: 1
+  itemTypes: 1
+  onClick: 0
+  consumeItem: 1
+  actionsOnClick: {fileID: 85143879603074982, guid: 98185f8c346a7b3469338b1372cb4eba, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 3179114088579414658, guid: 08588cd09e92edb499774a23d90e7dab, type: 3}
+  actionsOnEquip: {fileID: 8685561730709065895, guid: 9bc6189b850aac54389758aad930b732, type: 3}
+  actionsOnUnequip: {fileID: 2710208003948091289, guid: ca462d5471f6dd041a06af66c68354c3, type: 3}
+--- !u!114 &9139349319925818581
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1828596518
+  m_EditorClassIdentifier: 
+  uuid: 1828596518
+  itemName:
+    content: Haloperidol
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Medium medicine
+    postProcess: 0
+    translationID: 0
+  itemColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  sprite: {fileID: 21300000, guid: 3d4a4d8be39c0c140bb9233702bb11a6, type: 3}
+  prefab: {fileID: 4832263682965840500, guid: ad5b20976da343a4da8c2e6765859a01, type: 3}
+  canBeSold: 0
+  price: 1
+  maxStack: 99
+  weight: 1
+  itemTypes: 1
+  onClick: 1
+  consumeItem: 1
+  actionsOnClick: {fileID: 3862730950971656888, guid: 7c809c755b9c3844e8939b57680d593c, type: 3}
+  equipable: 0
+  fillAllTypes: 0
+  conditionsEquip: {fileID: 5046830922678895079, guid: 00eb65cb3cc1fdc4286f05f4951d72dd, type: 3}
+  actionsOnEquip: {fileID: 3591877631763526657, guid: a5565d3e46c095c4ba7ed5b29ec85fe8, type: 3}
+  actionsOnUnequip: {fileID: 3900924189563279793, guid: 184df974a0f08634ea32b05642e2b06e, type: 3}
